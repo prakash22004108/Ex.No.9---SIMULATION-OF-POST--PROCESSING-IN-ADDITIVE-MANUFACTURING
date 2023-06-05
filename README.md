@@ -51,8 +51,8 @@
 ![nine3](https://github.com/sarveshjustin/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497481/4f102054-9d1b-4067-b2a3-24da71e489ac)
 
 
-### Name:sarvesh.s
-### Register Number:212222230135
+### Name:Prakash.R
+### Register Number:212222240074
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
